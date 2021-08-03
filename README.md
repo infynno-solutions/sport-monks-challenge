@@ -1,4 +1,6 @@
-# Get the data from the Sport Monks api for Fixture and display it like in the design
+# Sport Monks Challenge
+
+Get the data from the Sport Monks api for Fixture and display it like in the design
 
 - Fixture Endpoint URL: `https://cricket.sportmonks.com/api/v2.0/fixtures`
 
